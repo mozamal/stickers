@@ -112,6 +112,10 @@
           "image_file": "25_Cuppy_battery.webp",
           "emojis": ["🔋","😵"]
         }
+        {
+          "image_file": "faradw.webp",
+          "emojis": ["🔋","😵"]
+        }
       ]
     }
   ]
